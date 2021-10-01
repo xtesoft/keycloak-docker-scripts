@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Keycloak</short>
+  <description>Keycloak Server</description>
+  <port protocol="tcp" port="8443"/>
+  <port protocol="tcp" port="8080"/>
+</service>
